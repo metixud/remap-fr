@@ -1,6 +1,6 @@
 # remap-fr
 
-Keep your Windows language set to **French** while typing on a **physical QWERTY keyboard**
+Fix the <> keys on a QWERTY keyboard with a French layout
 
 ## The Problem
 
