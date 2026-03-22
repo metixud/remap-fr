@@ -36,9 +36,3 @@ To run it **automatically on startup**:
 
 Switching back and forth between FR and EN layouts constantly is annoying, This script lets you stay on FR while still being able to type symbols that are awkward on a QWERTY-as-AZERTY setup.
 I use this script to make typing #include <> in C++ easier.
-
----
-
-## 📄 License
-
-MIT — do whatever you want with it.
