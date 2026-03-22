@@ -35,4 +35,6 @@ To run it **automatically on startup**:
 ## Why Not Just Switch Layouts?
 
 Switching back and forth between FR and EN layouts constantly is annoying, This script lets you stay on FR while still being able to type symbols that are awkward on a QWERTY-as-AZERTY setup.
-I use this script to make typing #include <> in C++ easier.
+I personally use it to do <> in C++ because before I couldn't.
+
+Another useless repo I made <3 sorry.
